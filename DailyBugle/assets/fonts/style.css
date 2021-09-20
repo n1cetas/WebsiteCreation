@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Chomsky';
+   font-display: swap;
+   src: url('Chomsky/font.woff');
+}
+@font-face {
+   font-family: 'Georgia-Bold';
+   font-display: swap;
+   src: url('Georgia-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'ArialMT';
+   font-display: swap;
+   src: url('ArialMT/font.ttf');
+}
